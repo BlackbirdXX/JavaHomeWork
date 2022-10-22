@@ -1,0 +1,8 @@
+окт. 22, 2022 5:16:07 PM HomeWork02.Task04 main
+INFO: 3*4=12
+окт. 22, 2022 5:27:16 PM HomeWork02.Task04 main
+INFO: 3+2=5
+окт. 22, 2022 5:27:52 PM HomeWork02.Task04 main
+INFO: 1/10=0.10000000149011612
+окт. 22, 2022 5:28:40 PM HomeWork02.Task04 main
+INFO: 1/19=0,05263

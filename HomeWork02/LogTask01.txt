@@ -1,0 +1,44 @@
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: Заполнение массива
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 0, 0, 0, 0, 0, 0, 0, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 0, 0, 0, 0, 0, 0, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 3, 0, 0, 0, 0, 0, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 3, 9, 0, 0, 0, 0, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 3, 9, 8, 0, 0, 0, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 3, 9, 8, 10, 0, 0, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 3, 9, 8, 10, 10, 0, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 3, 9, 8, 10, 10, 1, 0]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 3, 9, 8, 10, 10, 1, 6]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: Сортировка
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 7, 3, 3, 9, 8, 10, 10, 1, 6]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 7, 3, 9, 8, 10, 10, 3, 6]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 3, 7, 9, 8, 10, 10, 3, 6]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 3, 3, 9, 8, 10, 10, 7, 6]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 3, 3, 6, 9, 10, 10, 8, 7]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 3, 3, 6, 7, 10, 10, 9, 8]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 3, 3, 6, 7, 8, 10, 10, 9]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 3, 3, 6, 7, 8, 9, 10, 10]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 3, 3, 6, 7, 8, 9, 10, 10]
+окт. 22, 2022 11:25:08 AM HomeWork02.Task01 main
+INFO: [0, 1, 3, 3, 6, 7, 8, 9, 10, 10]
